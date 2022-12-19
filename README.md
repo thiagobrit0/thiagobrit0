@@ -4,7 +4,7 @@ Olá, tudo bem?! Me chamo **Thiago Brito**, um recifense arretado com bastante d
 
 Aqui tento trazer um pouco do que venho estudando e me dedicando diariamente.
 
->  📚 Atualmente estou estudando Python e a trindade do Frontend (HTML, CSS e JavaScript)
+>  📚 Atualmente estou estudando para ser um Cientista de Dados.
 
 <div align="center">
   <a href="https://github.com/BritoThiag0">
@@ -16,10 +16,11 @@ Aqui tento trazer um pouco do que venho estudando e me dedicando diariamente.
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<!--   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
   <img align="center" alt="Thiago-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Thiago-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Thiago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<!--   <img align="center" alt="Thiago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> -->
+  <img align="center" alt="Thiago-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
   
   ##
