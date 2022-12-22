@@ -1,6 +1,6 @@
 ## Olá! Sou o Thiago Brito 💻⚡
 
-Olá, tudo bem?! Me chamo **Thiago Brito**, um recifense arretado com bastante determinação e eneregia. Sou aluno do curso de **Engenharia Elétrica** pela Universidade de Pernambuco e também do curso de **Análise e Desenvolvimento de Sistemas** pela Faculdade Senac-PE.
+Olá, tudo bem?! Me chamo **Thiago Brito**, um recifense arretado com bastante determinação e energia. Sou aluno do curso de **Engenharia Elétrica** pela Universidade de Pernambuco e também do curso de **Análise e Desenvolvimento de Sistemas** pela Faculdade Senac-PE.
 
 Aqui tento trazer um pouco do que venho estudando e me dedicando diariamente.
 
