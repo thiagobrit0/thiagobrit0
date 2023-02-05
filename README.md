@@ -7,7 +7,7 @@ Aqui tento trazer um pouco do que venho estudando e me dedicando diariamente.
 >  📚 Atualmente estou estudando para ser um Cientista de Dados.
 
 <div align="center">
-  <a href="https://github.com/BritoThiag0">
+  <a href="https://github.com/thiagobrit0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagobrit0&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobrit0&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
